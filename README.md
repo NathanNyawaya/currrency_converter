@@ -27,6 +27,6 @@ Make sure you have an environment that supports C# console applications, such as
 ### Example:
 
 ```bash
-git clone https://github.com/NathanNyawaya/CurrencyConverter.git
-cd CurrencyConverter
+git clone https://github.com/NathanNyawaya/currrency_converter.git
+cd currency_converter
 dotnet run
