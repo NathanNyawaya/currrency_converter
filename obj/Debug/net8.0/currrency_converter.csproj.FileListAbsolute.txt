@@ -1,0 +1,14 @@
+/home/nathan-nyawaya/Desktop/station_uni/c#/currrency_converter/bin/Debug/net8.0/currrency_converter
+/home/nathan-nyawaya/Desktop/station_uni/c#/currrency_converter/bin/Debug/net8.0/currrency_converter.deps.json
+/home/nathan-nyawaya/Desktop/station_uni/c#/currrency_converter/bin/Debug/net8.0/currrency_converter.runtimeconfig.json
+/home/nathan-nyawaya/Desktop/station_uni/c#/currrency_converter/bin/Debug/net8.0/currrency_converter.dll
+/home/nathan-nyawaya/Desktop/station_uni/c#/currrency_converter/bin/Debug/net8.0/currrency_converter.pdb
+/home/nathan-nyawaya/Desktop/station_uni/c#/currrency_converter/obj/Debug/net8.0/currrency_converter.GeneratedMSBuildEditorConfig.editorconfig
+/home/nathan-nyawaya/Desktop/station_uni/c#/currrency_converter/obj/Debug/net8.0/currrency_converter.AssemblyInfoInputs.cache
+/home/nathan-nyawaya/Desktop/station_uni/c#/currrency_converter/obj/Debug/net8.0/currrency_converter.AssemblyInfo.cs
+/home/nathan-nyawaya/Desktop/station_uni/c#/currrency_converter/obj/Debug/net8.0/currrency_converter.csproj.CoreCompileInputs.cache
+/home/nathan-nyawaya/Desktop/station_uni/c#/currrency_converter/obj/Debug/net8.0/currrency_converter.dll
+/home/nathan-nyawaya/Desktop/station_uni/c#/currrency_converter/obj/Debug/net8.0/refint/currrency_converter.dll
+/home/nathan-nyawaya/Desktop/station_uni/c#/currrency_converter/obj/Debug/net8.0/currrency_converter.pdb
+/home/nathan-nyawaya/Desktop/station_uni/c#/currrency_converter/obj/Debug/net8.0/currrency_converter.genruntimeconfig.cache
+/home/nathan-nyawaya/Desktop/station_uni/c#/currrency_converter/obj/Debug/net8.0/ref/currrency_converter.dll
